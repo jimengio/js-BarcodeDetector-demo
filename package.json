@@ -1,0 +1,12 @@
+{
+  "name": "js-BarcodeDetector-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "up": "tiye-up"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.0"
+  }
+}

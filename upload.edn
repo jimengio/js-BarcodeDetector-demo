@@ -1,0 +1,4 @@
+
+{:host "tiye.me"
+ :uploads [{:from "{index.html,barcode.png}"
+            :to "repo/jimengio/js-BarcodeDetector-demo/"}]}
